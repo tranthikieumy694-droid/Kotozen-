@@ -1,0 +1,6 @@
+{
+  "name": "KotoZen — Học Anh · Nhật Qua YouTube",
+  "description": "Ứng dụng học ngoại ngữ Anh - Nhật chuyên sâu qua YouTube với phụ đề tương tác 1-click, Furigana & Pitch Accent, IPA & nối âm, giải phẫu cú pháp, luyện Shadowing và thẻ ôn tập FSRS ngoại tuyến.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
